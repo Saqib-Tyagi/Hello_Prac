@@ -1,2 +1,6 @@
+
+class Demo{
+}
+
 class Demo{
 }
